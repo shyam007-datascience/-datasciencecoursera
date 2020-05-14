@@ -1,5 +1,5 @@
-# -datasciencecoursera
+### -datasciencecoursera
 
 **by**
-##* SHYAM SUNDAR *
+## *SHYAM SUNDAR*
 LEARNING DATA SCCIENCE IN COURSERA
